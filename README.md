@@ -14,7 +14,8 @@ to predict `base_experience`, the XP a Pokémon gives when defeated.
 
 ## Dataset
 
-Source: <Ultimate Pokémon Dataset 2026>, <https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025>
+Source: [Ultimate Pokémon Dataset 2026]
+(https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025) by DarkMatterNet on Kaggle (CC0: Public Domain), originally scraped from [PokéAPI](https://pokeapi.co).
 
 1,025 Pokémon with battle stats, size, capture rate and categories.
 Target: `base_experience`. Features: 10 numeric columns (hp, attack, defense,
